@@ -17,7 +17,7 @@ export default siteConfig({
   description: 'talk about making and creating things',
 
   // social usernames (optional)
-  twitter: 'punkbear',
+  twitter: 'punkthebear',
   github: 'punkthebear',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
