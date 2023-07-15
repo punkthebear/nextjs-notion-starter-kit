@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'coolspace',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'https://www.notion.so/Blog-08b4d0f673324c5b94e18ea24f6577ac',
   author: 'punkbear',
 
   // open graph metadata (optional)
